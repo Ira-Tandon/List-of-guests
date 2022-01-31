@@ -1,0 +1,22 @@
+a{
+    color:darkgrey;
+}
+body{
+    align-items: center;
+    text-align: center;
+    background-color:hotpink;
+}
+input{
+    color:aliceblue;
+    background-color:black;
+}
+button{
+    background-color:blueviolet;
+    color:hotpink;
+    border-radius: 100px;
+    border-color:deepskyblue;
+    border-width: 0.4px;
+    height: 30px;
+    width:80px;
+    font-size:20px;
+}
